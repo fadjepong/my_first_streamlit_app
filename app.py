@@ -1,4 +1,3 @@
-from tkinter.tix import DECREASING
 import streamlit as st
 import random
 import altair as alt
