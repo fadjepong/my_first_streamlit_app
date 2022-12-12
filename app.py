@@ -36,7 +36,7 @@ df = pd.DataFrame({"x": x_axis,"y": y_data})
 st.write(df)
 
 st.markdown(
-"**QUESTION 200**: Using the dataframe you just created, create a basic scatterplot and Print it.\n"
+"**QUESTION 2**: Using the dataframe you just created, create a basic scatterplot and Print it.\n"
 "Use the following code block to help get you started."
 )
 
